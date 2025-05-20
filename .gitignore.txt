@@ -1,0 +1,17 @@
+# Ignora pastas e arquivos gerados pelo Visual Studio
+.vs/
+bin/
+obj/
+
+# Ignora arquivos de cache e outros temporários
+*.cache
+*.user
+*.suo
+
+# Ignora arquivos de build
+[Bb]in/
+[Oo]bj/
+
+# Ignora arquivos de solução e configuração
+*.sln
+*.csproj.user
